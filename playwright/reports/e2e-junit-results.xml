@@ -1,0 +1,11 @@
+<testsuites id="" name="" tests="1" failures="0" skipped="0" errors="0" time="2.092434999999998">
+<testsuite name="src\App.spec.ts" timestamp="2024-04-25T06:00:40.710Z" hostname="chromium" tests="1" failures="0" skipped="0" time="0.957" errors="0">
+<testcase name="App › Should_render" classname="src\App.spec.ts" time="0.957">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|..\output\src-App-App-Should-render-chromium\trace.zip]]
+]]>
+</system-out>
+</testcase>
+</testsuite>
+</testsuites>
